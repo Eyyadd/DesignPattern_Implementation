@@ -21,7 +21,8 @@ Each pattern is in its own folder with:
 - ✅ Pattern-specific explanation in the code comments
 
 ## 🚀 Getting Started
-git clone https://github.com/your-username/design-patterns-csharp.git
+git clone https://github.com/Eyyadd/DesignPattern_Implmenetation.git
+
 dotnet run --project <ProjectFolder>
 
 
