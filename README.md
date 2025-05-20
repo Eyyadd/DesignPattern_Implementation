@@ -8,8 +8,8 @@ This repo contains examples of the most common and useful design patterns implem
 | Pattern Type      | Patterns Included                                                                 |
 |-------------------|------------------------------------------------------------------------------------|
 | Creational        | ✅ Singleton, ✅ Factory Method, ✅ Abstract Factory, ✅ Builder, ✅ Prototype        |
-| Structural        | 🚧 Coming Soon: Adapter, Bridge, Composite, Decorator, Facade, Proxy               |
-| Behavioral        | 🚧 Coming Soon: Strategy, Observer, Command, State, Template Method, Chain of Resp |
+| Structural        | ✅ Adapter, ✅ Bridge, Composite, ✅ Decorator, ✅Facade, Proxy                       |
+| Behavioral        | ✅ Strategy, Observer, Command, State, Template Method, Chain of Resp |
 
 ---
 
